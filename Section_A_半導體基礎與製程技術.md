@@ -1,4 +1,4 @@
-# A. 半導體基礎與製程技術 (Semiconductor Fundamentals and Process Technology)
+# A. 半導體產業概覽與製程技術 (Semiconductor Industry Overview and Process Technology)
 
 ## a. 半導體產業概覽: 半導體的基本概念、歷史發展、產業鏈介紹。
 ## b. 半導體製造技術: 從晶圓製造到晶片封裝的過程，介紹先進製程技術。
