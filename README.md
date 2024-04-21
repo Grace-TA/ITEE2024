@@ -1,6 +1,6 @@
 # 2024 資訊電子產業概論 (Introduction to the Information Electronics Industry)
 
-### A. 半導體產業概覽與製程技術 (Semiconductor Industry Overview and Process Technology), 3W
+### A. 半導體產業概覽與製程技術 (Semiconductor Industry Overview and Process Technology), 4W
 
 > 半導體產業概覽, 半導體製造技術, 半導體材料與設計。
 
