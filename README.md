@@ -12,7 +12,7 @@
 
 > 人工智慧與機器學習, 雲端計算, 量子計算。
 
-### D. 資訊電子產業的未來趨勢與應用 (Future Trends and Applications in the Information Electronics Industry), 5W
+### D. 資訊電子產業的未來趨勢與應用 (Future Trends and Applications in the Information Electronics Industry), 4W
 
 > 物聯網(IoT)與智慧裝置, 5G與未來通信技術, 自動駕駛與先進駕駛輔助系統(ADAS), 課程總結與未來展望。
 
